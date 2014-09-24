@@ -11,3 +11,6 @@ accounts-github
 accounts-twitter
 accounts-meetup
 accounts-ui
+iron:router
+fuatsengul:iron-router-auth
+
