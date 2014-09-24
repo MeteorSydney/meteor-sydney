@@ -81,6 +81,13 @@ Add Iron Router, routes and configure headers and footers for the application
 
   - [Iron Router](https://atmospherejs.com/iron/router) :: `meteor add iron:router`
 
-### Step 4 :: Bootstrapping
+### Step 4 :: Bootstrapping and Iron Router Authentication
 
-Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step4).
+Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/MeteorSydney/meteor-sydney/tree/step4).
+
+-----
+
+**Created By:** Aaron Thorp
+  - **Email:** [hello@aaronthorp.com](hello@aaronthorp.com)
+  - **IRC:** "oRiCLe" Freenode (#meteor)
+  - **Twitter:** @aaronthorp
