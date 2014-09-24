@@ -63,12 +63,11 @@ Meteor Document Reference : [http://docs.meteor.com/#accounts_api](http://docs.m
 
 #### Required Packages
 
-  - Accounts (Base) - `meteor add accounts-base`
-  - Accounts (UI) - `meteor add accounts-ui`
-
-  - Accounts (GitHub) - `meteor add accounts-github`
-  - Accounts (Twitter) - `meteor add accounts-twitter`
-  - Accounts (MeetUp) - `meteor add accounts-meetup`
+  - Accounts (Base) :: `meteor add accounts-base`
+  - Accounts (UI) :: `meteor add accounts-ui`
+  - Accounts (GitHub) :: `meteor add accounts-github`
+  - Accounts (Twitter) :: `meteor add accounts-twitter`
+  - Accounts (MeetUp) :: `meteor add accounts-meetup`
 
 The file `test.html` shows an example of how to use and configuration the login providers.
 
