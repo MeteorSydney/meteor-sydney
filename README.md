@@ -90,4 +90,4 @@ Add Bootstrap package and modify layout template to reflect theme.
 
 ### Step 5 :: Login Forms and Route Authentication
 
-Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step4).
+Use `git checkout step5` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step5).
