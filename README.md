@@ -55,10 +55,23 @@ server
   └── methods
 ```
 
-### Step 2 :: Adding Meteor Packages
+### Step 2 :: Adding Authentication
 
-- current branch
+Add and configure the authentication packages in the application.
 
-### Step 3 :: Creating Iron Router Routes
+Meteor Document Reference : [http://docs.meteor.com/#accounts_api](http://docs.meteor.com/#accounts_api)
+
+#### Required Packages
+
+  - Accounts (Base) - `meteor add accounts-base`
+  - Accounts (UI) - `meteor add accounts-ui`
+
+  - Accounts (GitHub) - `meteor add accounts-github`
+  - Accounts (Twitter) - `meteor add accounts-twitter`
+  - Accounts (MeetUp) - `meteor add accounts-meetup`
+
+The file `test.html` shows an example of how to use and configuration the login providers.
+
+### Step 3 :: Iron Router and Routing Pages
 
 Use `git checkout step3` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step3).
