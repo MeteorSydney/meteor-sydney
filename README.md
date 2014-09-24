@@ -59,4 +59,19 @@ server
 
 ### Step 2 :: Adding Authentication
 
-Use `git checkout step2` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step2).
+Use `git checkout step2` in the folder to move to this branch or [view the branch on GitHub](https://github.com/MeteorSydney/meteor-sydney/tree/step2).
+
+### Step 3 :: Iron Router and Routing Pages
+
+Use `git checkout step3` in the folder to move to this branch or [view the branch on GitHub](https://github.com/MeteorSydney/meteor-sydney/tree/step3).
+
+### Step 4 :: Bootstrapping and Iron Router Authentication
+
+Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/MeteorSydney/meteor-sydney/tree/step4).
+
+-----
+
+**Created By:** Aaron Thorp
+  - **Email:** [hello@aaronthorp.com](hello@aaronthorp.com)
+  - **IRC:** "oRiCLe" Freenode (#meteor)
+  - **Twitter:** @aaronthorp
