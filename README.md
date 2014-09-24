@@ -57,6 +57,6 @@ server
   └── methods
 ```
 
-### Step 2 :: Adding Meteor Packages
+### Step 2 :: Adding Authentication
 
 Use `git checkout step2` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step2).
