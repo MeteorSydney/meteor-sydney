@@ -100,4 +100,7 @@ as well as the router file.
 
 -----
 
-**Created By:** Aaron Thorp - **Email:** [hello@aaronthorp.com](hello@aaronthorp.com) - **IRC:** Freenode (oRiCLe) #meteor - **Twitter:** @aaronthorp
+**Created By:** Aaron Thorp
+  - **Email:** [hello@aaronthorp.com](hello@aaronthorp.com)
+  - **IRC:** "oRiCLe" Freenode (#meteor)
+  - **Twitter:** @aaronthorp
