@@ -75,13 +75,12 @@ The file `test.html` shows an example of how to use and configuration the login 
 
 ### Step 3 :: Iron Router and Routing Pages
 
-Add Iron Router, setup headers and footers and authentication rules for routes
+Add Iron Router, routes and configure headers and footers for the application
 
 #### Required Packages
 
   - [Iron Router](https://atmospherejs.com/iron/router) :: `meteor add iron:router`
-  - [Iron Router Authentication](https://atmospherejs.com/fuatsengul/iron-router-auth) :: `meteor add fuatsengul:iron-router-auth`
 
-### Step 4 :: ??
+### Step 4 :: Bootstrapping
 
 Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step4).
