@@ -31,6 +31,8 @@ Use `git checkout step3` in the folder to move to this branch or [view the branc
 
 Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/MeteorSydney/meteor-sydney/tree/step4).
 
+### Step ?:: *if you would like me to continue these steps, post an issue or create a pull request on the correct step branch and i can merge*
+
 -----
 
 **Created By:** Aaron Thorp
