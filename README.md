@@ -81,13 +81,19 @@ Add Iron Router, routes and configure headers and footers for the application
 
   - [Iron Router](https://atmospherejs.com/iron/router) :: `meteor add iron:router`
 
-### Step 4 :: Bootstrapping
+### Step 4 :: Bootstrapping and Iron Router Authentication
 
 Add Bootstrap package and modify layout template to reflect theme.
 
 #### Required Packages
   - [Bootstrap 3](https://atmospherejs.com/pinglamb/bootstrap3) :: `meteor add pinglamb:bootstrap3`
 
-### Step 5 :: Login Forms and Route Authentication
+Also added authentication helpers package to assist with login form. You can see this in the `client/views/login` folder
+as well as the router file.
 
-Use `git checkout step5` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step5).
+"Members Area" link requires you to be logged in to demonstrate authentication in iron-router.
+
+#### Required Packages
+  - Accounts Templates Core :: `splendido:accounts-templates-core`
+  - Accounts Template Base :: `splendido:accounts-templates-bootstrap`
+  - Iron Router Authentication :: `fuatsengul:iron-router-auth`

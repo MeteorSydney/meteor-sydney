@@ -15,6 +15,7 @@ blaze@2.0.0
 boilerplate-generator@1.0.0
 callback-hook@1.0.0
 check@1.0.0
+coffeescript@1.0.3
 ctl-helper@1.0.3
 ctl@1.0.1
 ddp@1.0.8
@@ -61,8 +62,12 @@ retry@1.0.0
 routepolicy@1.0.1
 service-configuration@1.0.1
 session@1.0.1
+sha@1.0.0
+softwarerero:accounts-t9n@0.0.20
 spacebars-compiler@1.0.2
 spacebars@1.0.1
+splendido:accounts-templates-bootstrap@0.9.4
+splendido:accounts-templates-core@0.9.4
 templating@1.0.6
 tracker@1.0.2
 twitter@1.1.0

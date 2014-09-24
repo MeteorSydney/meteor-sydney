@@ -7,23 +7,30 @@
         <div class="navbar-header">
            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="{{pathFor 'landing'}}">Meteor Sydney</a>
         </div>
-        
+
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li class="">
               <a href="{{pathFor 'page2'}}">Page 2</a>
             </li>
             <li>
-              <a href="/other">Other Link</a>
+              <a href="/other">Broken Link</a>
+            </li>
+            <li>
+              <a href="{{pathFor 'members'}}">Members Only</a>
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a href="{{pathFor 'entrySignIn'}}">Login</a>
+              {{#if currentUser}}
+                Welcome {{currentUser}}, <a href="{{pathFor 'logout'}}">Logout</a>
+              {{else}}
+                <a href="{{pathFor 'login'}}">Login</a>
+              {{/if}}
             </li>
           </ul>
         </div>
-        
+
       </nav>
 
     </div>
