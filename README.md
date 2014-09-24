@@ -97,3 +97,7 @@ as well as the router file.
   - Accounts Templates Core :: `splendido:accounts-templates-core`
   - Accounts Template Base :: `splendido:accounts-templates-bootstrap`
   - Iron Router Authentication :: `fuatsengul:iron-router-auth`
+
+-----
+
+**Created By:** Aaron Thorp - **Email:** [hello@aaronthorp.com](hello@aaronthorp.com) - **IRC:** Freenode (oRiCLe) #meteor - **Twitter:** @aaronthorp
