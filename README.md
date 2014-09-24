@@ -11,4 +11,4 @@ Each step is stored in its own branch. To checkout each stage, in the folder typ
 
 ### Step 1 :: Updating the Folder Structure
 
-Use `git checkout step1` to move to this branch or [View the Step 1 Branch here](https://github.com/aaronthorp/meteor-sydney/tree/step1)
+Use `git checkout step1` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step1).
