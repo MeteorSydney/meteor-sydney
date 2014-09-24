@@ -57,4 +57,8 @@ server
 
 ### Step 2 :: Adding Meteor Packages
 
-Use `git checkout step2` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step2).
+- current branch
+
+### Step 3 :: Creating Iron Router Routes
+
+Use `git checkout step3` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step3).
