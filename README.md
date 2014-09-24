@@ -61,7 +61,7 @@ server
 
 Add and configure the authentication packages in the application.
 
-Meteor Document Reference : [http://docs.meteor.com/#accounts_api](http://docs.meteor.com/#accounts_api)
+Meteor Document Reference: [http://docs.meteor.com/#accounts_api](http://docs.meteor.com/#accounts_api)
 
 #### Required Packages
 
