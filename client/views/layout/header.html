@@ -23,7 +23,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li>
               {{#if currentUser}}
-                Welcome {{currentUser}}, <a href="{{pathFor 'logout'}}">Logout</a>
+                <a href="{{pathFor 'logout'}}">Logout</a>
               {{else}}
                 <a href="{{pathFor 'login'}}">Login</a>
               {{/if}}
