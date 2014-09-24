@@ -1,6 +1,8 @@
 Meteor Sydney User Group Site
 -----------------------------
 
+**Meteor Version:** v0.9.2.2
+
 ### Installation
 
 Install by cloning the repository using `git clone https://github.com/aaronthorp/meteor-sydney.git`.
@@ -44,3 +46,7 @@ server
     └── permission-{collection}.js
   └── methods
 ```
+
+### Step 2 :: Adding Meteor Packages
+
+Use `git checkout step2` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step2).
