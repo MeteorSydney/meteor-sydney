@@ -5,7 +5,7 @@ Router.configure({
   notFoundTemplate: '404',
   loadingTemplate: 'loading',
   yieldTemplates: {
-    header: {
+    headerBS: {
       to: 'header'
     },
     footer: {
@@ -23,6 +23,7 @@ Router.onBeforeAction('loading');
 Router.map(function() {
 
   this.route('landing', {
+    template: 'landingBS',
     path: '/'
   });
 

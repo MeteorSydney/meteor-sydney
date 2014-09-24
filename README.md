@@ -83,4 +83,11 @@ Add Iron Router, routes and configure headers and footers for the application
 
 ### Step 4 :: Bootstrapping
 
+Add Bootstrap package and modify layout template to reflect theme.
+
+#### Required Packages
+  - [Bootstrap 3](https://atmospherejs.com/pinglamb/bootstrap3) :: `meteor add pinglamb:bootstrap3`
+
+### Step 5 :: Login Forms and Route Authentication
+
 Use `git checkout step4` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step4).
