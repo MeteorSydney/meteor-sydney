@@ -17,6 +17,8 @@ To run simply type `meteor` in the folder and point your browser to [http://loca
 
 ### Step 1 :: Update the Folder Structure
 
+Meteor Document Reference: [http://docs.meteor.com/#structuringyourapp](http://docs.meteor.com/#structuringyourapp)
+
 Formatting the folder structure is a great way to seperate the code from client and server and put it in a logical and easy to understand hierarchy.
 
 ```
