@@ -14,3 +14,7 @@ To run this application, update the packages by typing `meteor update --packages
 And to ensure the application is running in the same version it was developed, run `meteor update --release 0.9.2.2`
 
 To run simply type `meteor` in the folder and point your browser to [http://localhost:3000](http://localhost:3000) to view the application.
+
+### Step 1 :: Update the Folder Structure
+
+Use `git checkout step1` in the folder to move to this branch or [view the branch on GitHub](https://github.com/aaronthorp/meteor-sydney/tree/step1).
